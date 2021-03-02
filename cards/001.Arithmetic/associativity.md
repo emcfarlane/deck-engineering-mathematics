@@ -1,4 +1,4 @@
-What is the ** Associative** property?
+What is the **Associative** property?
 <!--question-->
 Rearranging the parentheses in an expression will not change the result.
 
