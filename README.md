@@ -1,3 +1,5 @@
+![Engineering mathematics][hero.jpg]
+
 Engineering Mathematics
 ===
 
