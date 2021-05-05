@@ -1,4 +1,4 @@
-![Engineering mathematics][hero.jpg]
+![Engineering mathematics](/hero.jpg)
 
 Engineering Mathematics
 ===
